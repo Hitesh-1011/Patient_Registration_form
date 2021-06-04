@@ -14,7 +14,6 @@ Pin Code [Textbox]
 Phone Number [Textbox]
 Date of Birth – [Date picker] If the age is below 18, the the following information should be asked.
 o NameoftheParent[Textbox]
-
 o Parentphonenumber[Textbox]
 
 Sex [Option/Radio button] {Male, Female}
